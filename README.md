@@ -6,7 +6,7 @@
 
 I build practical web experiences and explore how software, automation, and technology can solve real-world problems.
 
-[![GitHub followers](https://img.shields.io/github/followers/motzarts?label=Followers&style=for-the-badge)](https://github.com/motzarts)
+[![GitHub followers](<img src="https://komarev.com/ghpvc/?username=motzarts&style=for-the-badge&color=blue" alt="Profile views" />)
 [![Profile views](https://komarev.com/ghpvc/?username=motzarts&style=for-the-badge&color=blue)](https://github.com/motzarts)
 
 </div>

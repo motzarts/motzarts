@@ -1,11 +1,3 @@
-<!--
-GitHub Profile README
-IMPORTANT:
-1. Create a public repository whose name exactly matches your GitHub username.
-2. Name this file README.md and place it in the repository root.
-3. Replace YOUR_GITHUB_USERNAME and any details that don't match your current experience.
--->
-
 <div align="center">
 
 # Hi, I'm Morteza Shokri 👋
@@ -14,7 +6,7 @@ IMPORTANT:
 
 I build practical web experiences and explore how software, automation, and technology can solve real-world problems.
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/motzarts?label=Followers&style=for-the-badge)](https://github.com/motzarts)
 [![Profile views](https://komarev.com/ghpvc/?username=motzarts&style=for-the-badge&color=blue)](https://github.com/motzarts)
 
 </div>
@@ -87,9 +79,9 @@ A technology and digital-services initiative focused on web development, IT solu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=motzarts&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=motzarts&layout=compact&hide_border=true)
 
 </div>
 
@@ -97,7 +89,7 @@ A technology and digital-services initiative focused on web development, IT solu
 
 - 🌐 Website: [jamtechno.ir](https://jamtechno.ir)
 - 💬 Telegram: [@jam_techno](https://t.me/jam_techno)
-- 🐙 GitHub: [Motzart](https://github.com/motzarts)
+- 🐙 GitHub: [@motzarts](https://github.com/motzarts)
 
 I'm interested in connecting with developers, learning from real-world projects, and collaborating on useful software.
 

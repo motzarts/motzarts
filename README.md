@@ -15,7 +15,7 @@ IMPORTANT:
 I build practical web experiences and explore how software, automation, and technology can solve real-world problems.
 
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)](https://github.com/motzarts)
 
 </div>
 
@@ -97,7 +97,7 @@ A technology and digital-services initiative focused on web development, IT solu
 
 - 🌐 Website: [jamtechno.ir](https://jamtechno.ir)
 - 💬 Telegram: [@jam_techno](https://t.me/jam_techno)
-- 🐙 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 🐙 GitHub: [Motzart](https://github.com/motzarts)
 
 I'm interested in connecting with developers, learning from real-world projects, and collaborating on useful software.
 

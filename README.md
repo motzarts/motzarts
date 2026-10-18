@@ -83,7 +83,7 @@ I'm **Morteza Shokri** — a developer focused on building useful web products a
 
 <p>
   <a href="https://jamtechno.ir"><img src="https://img.shields.io/badge/Website-Jam%20Techno-312E81?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Jam Techno website" /></a>
-  <a href="https://t.me/jam_techno"><img src="https://img.shields.io/badge/Telegram-@jam__techno-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @jam_techno" /></a>
+  <a href="https://t.me/jam_techno"><img src="https://img.shields.io/badge/Telegram-@jam__techno-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @themotzart" /></a>
   <a href="https://github.com/motzarts"><img src="https://img.shields.io/badge/GitHub-@motzarts-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @motzarts" /></a>
 </p>
 
